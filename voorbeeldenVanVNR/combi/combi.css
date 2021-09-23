@@ -15,20 +15,27 @@ body {
     background-color: white;
 }
 
-#uniek {
-    background-color: darkred;
-    color: salmon;
+.box {
+    width: 200px;
+    margin: 20px;
+    background-color: lightgreen;
+    padding: 10px;
 }
 
-.vierkant {
-    width: 200px;
-    height: 200px;
-    margin: 20px;
-    background-color: chocolate;
-    padding: 10px;
+h2 {
+    color: darkgreen;
+}
+
+div.zwart {
+    background-color: black;
+    color: thistle;
+}
+
+#uniek {
+    background-color: burlywood;
+    color: salmon;
 }
 
 #uniek h2 {
     text-transform: uppercase;
-    color: cornsilk;
 }
