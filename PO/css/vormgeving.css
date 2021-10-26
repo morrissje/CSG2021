@@ -12,15 +12,14 @@ html {
 body {
     background-image: url(https://media.cntraveler.com/photos/60596b398f4452dac88c59f8/3:2/w_3999,h_2666,c_limit/MtFuji-GettyImages-959111140.jpg);
     background-size: cover;
-    height: 85%;
+    height: 110%;
     width: 15;
     
 }
 
 #menu {
     width: 70%;
-    height: 15%;
-    color:rgb(97, 189, 158);
+    height: 13%;
     margin-left: 10%;
    
  
@@ -38,7 +37,7 @@ body {
 
 #content {
     width: 85%;
-    height: 85%;
+    height: 105%;
     padding-top: 60px;
     padding-left: 100px;
     padding-right: 100px;
@@ -46,7 +45,7 @@ body {
     background-color:rgb(225, 251, 255);
     background-size: cover;
     text-align: center;
-    font-family: 'Scheherazade New', serif; 
+    font-family: 'Scheherazade', serif;
     font-size:20px;
      
 }
@@ -78,13 +77,13 @@ a {
 }
 
 a:hover, li:hover {
-    background-color: #CCC;
+    background-color: rgb(176, 196, 240);
 }
 
 h1 {
     
     font-weight: 900;  
-  
+    color:rgb(48, 56, 56);
     text-transform: lowercase;
     font-variant: small-caps;
 }
@@ -92,22 +91,23 @@ h1 {
 p {
     
     margin-bottom: 2rem;
- 
-}
-
-.fotobalk {
-    width: 60%;
-    height: auto;
-    border: 5px solid rgb(123, 152, 206);
-    margin-left: 20%;
-    margin-top: 25%;
+ color:rgb(48, 56, 56);
 }
 
 img {
-    max-height: 200px;
-    max-width: 500px;
-    float:middle;
-    margin-left: 7%;
+    max-height: 150px;
+    max-width: 375px;
+  
+    margin-left: 5%;
     margin-top: 1%;
+    margin-bottom: 2%;
 }
 
+#plaatjes
+{ 
+    size: 300%;
+    width: 100%;
+    height: 80%;
+    size: 150%;
+ 
+}
